@@ -83,7 +83,7 @@ const Hero = ({
                 Entrepreneur, Data Scientist, Software Engineer
                 </p>
               <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="600">
-                Ex-Trader, Rapper, Beat Maker
+                Ex-Trader, Producer, Beat Maker
                 </p>
               <div className="reveal-from-bottom" data-reveal-delay="1200">
                 <ButtonGroup>
